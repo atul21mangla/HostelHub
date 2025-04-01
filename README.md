@@ -45,9 +45,6 @@ HostelHub is a modern, user-friendly hostel management system built with React a
 ![Dashboard](https://i.imgur.com/ABC456.png)
 *Main dashboard showing all key information at a glance*
 
-### Room Management
-![Room Types](https://i.imgur.com/DEF789.png)
-*Different room types with pricing and amenities*
 
 ### Mess Facilities
 ![Mess Schedule](https://i.imgur.com/GHI101.png)
