@@ -1,6 +1,6 @@
 # HostelHub - Modern Hostel Management System
 
-![HostelHub Dashboard](https://i.imgur.com/XYZ123.png)
+<img src="https://github.com/atul21mangla/HostelHub/blob/a9f48e08fab9fc19358b81192792fa385f53b887/images/Screenshot%202025-04-01%20230342.png">
 
 HostelHub is a modern, user-friendly hostel management system built with React and Tailwind CSS. It provides a comprehensive solution for hostel administrators and residents to manage and access information about blocks, rooms, mess facilities, and more.
 
@@ -42,12 +42,12 @@ HostelHub is a modern, user-friendly hostel management system built with React a
 ## 📸 Screenshots
 
 ### Dashboard
-![Dashboard](https://i.imgur.com/ABC456.png)
+![Dashboard](https://github.com/atul21mangla/HostelHub/blob/a9f48e08fab9fc19358b81192792fa385f53b887/images/Screenshot%202025-04-01%20230125.png)
 *Main dashboard showing all key information at a glance*
 
 
 ### Mess Facilities
-![Mess Schedule](https://i.imgur.com/GHI101.png)
+![Mess Schedule](https://github.com/atul21mangla/HostelHub/blob/a9f48e08fab9fc19358b81192792fa385f53b887/images/Screenshot%202025-04-01%20230150.png)
 *Mess timings and menu information*
 
 ## 🛠️ Installation
